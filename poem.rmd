@@ -14,7 +14,10 @@ Our project will be done using a sequence of save and commits and branch actions
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
 ## First Verse 
-<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+How doth the little crocodile  
+Improve his shining tail , And pour the waters of the Nile  
+On every golden scale!  
+How cheerfully he seems to grin ,  
 
 ## Second Verse
 Nature’s first green is gold,  
@@ -39,4 +42,19 @@ After the day was done—
 “To come and spoil the fun!”  
 
 ## Last Verse
-<!--Put a short poem of your choice 8-20 lines,here!-->
+It is the color of light,  
+The shape of sound high in the evergreens  
+It lies suspended in hills,  
+A blue line in a red sky.  
+I am looking at sound.  
+I am hearing the brightness  
+Of high bluffs and almond trees  
+I am tasting the wilderness  
+of lakes, rivers, and streams  
+Caught in an angle of song.  
+I am remembering water  
+That glows in the dawn  
+The motion tumbled in earth  
+Life hidden in mounds.  
+I am dancing a bright beam of light  
+I am remembering love.  
